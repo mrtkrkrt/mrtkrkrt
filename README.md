@@ -7,7 +7,7 @@
 
 I am Murat Karakurt 🧔
 
-I live in Istanbul and studying software engineering at Kocaeli University. I have been working on artificial intelligence for about 1year. Anymore my future career will be on artificial intelligence😎.
+I live in Istanbul and studying software engineering at Kocaeli University 😎.
 
 ## ⚡ Technologies
 Talk to me about
