@@ -8,15 +8,6 @@ I am Murat Karakurt 🧔
 
 I live in Istanbul and studying software engineering at Kocaeli University 😎.
 
-## ⚡ Technologies
-Talk to me about
-
-- Creating big and small projects using **Computer Vision (Python)**
-- Machine Learning and Artificial Intelligence projects with Python
-- Data Processing using Python
-- GUI with JavaFX and Qt5
-- Solving Data structure and algorithm questions in **Java and Python**
-
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@mrtkrkrt3444)
