@@ -4,9 +4,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/mrtkrkrt) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/murat-karakurt-5b422119a/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrtkrkrt3444@gmail.com)
 
-I am Murat Karakurt 🧔
-
-I live in Istanbul and studying software engineering at Kocaeli University 😎.
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=mrtkrkrt&show_icons=true&theme=radical"></p>
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
