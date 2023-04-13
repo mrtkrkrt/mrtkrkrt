@@ -5,7 +5,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrtkrkrt3444@gmail.com)
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=mrtkrkrt&show_icons=true&theme=radical"></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtkrkrt&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=mrtkrkrt&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
