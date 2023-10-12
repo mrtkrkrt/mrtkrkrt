@@ -9,5 +9,4 @@
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@mrtkrkrt)
-- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red&logo=kaggle&logoColor=white)](https://www.kaggle.com/muratkarakurt)
 
